@@ -1,6 +1,6 @@
 {
   "name": "shara-country-currency-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mapping of countries and their primary currency. This is a fork of https://www.npmjs.com/package/country-currency-map",
   "main": "lib/index.js",
   "scripts": {
